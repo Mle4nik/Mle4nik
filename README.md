@@ -24,7 +24,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I'm a Junior Front-End Developer
+I'm a Web Developer
 
 ---
 
