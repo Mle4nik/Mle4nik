@@ -4,7 +4,7 @@
 </div>
 
 <!-- <div id="hello" align="center">
-  Hi there 👋
+  Hey there 👋
 </div> -->
 
 <div id="badges" align="center">
